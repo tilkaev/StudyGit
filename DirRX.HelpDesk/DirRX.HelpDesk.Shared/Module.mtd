@@ -34,25 +34,10 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "ItemId": "4b259e30-70e2-4824-859a-ee67a42a30b8",
-      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
-    },
-    {
-      "ItemId": "decbea92-af90-44a5-ae22-c8654d9f4df3",
-      "PreviousItemId": "4b259e30-70e2-4824-859a-ee67a42a30b8"
-    },
-    {
-      "ItemId": "a7cd846d-61e5-4f71-b7d7-a96ee4a11921",
-      "PreviousItemId": "decbea92-af90-44a5-ae22-c8654d9f4df3"
     },
     {
       "ItemId": "8cd17d9c-e706-4af2-83e6-27ca6eed34ea",
       "PreviousItemId": "a7cd846d-61e5-4f71-b7d7-a96ee4a11921"
->>>>>>> 63bbc60 (Создал документ AddendumRequest)
     }
   ],
   "IconResourcesKeys": [],
