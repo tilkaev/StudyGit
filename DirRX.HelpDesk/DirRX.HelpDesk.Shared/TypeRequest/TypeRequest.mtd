@@ -59,12 +59,20 @@
       "PreviousPropertyGuid": "1dcedc29-5140-4770-ac92-eabc212326a1"
     },
     {
+<<<<<<< HEAD
       "$type": "Sungero.Metadata.NavigationPropertyMetadata, Sungero.Metadata",
       "NameGuid": "d695c6e1-73f4-4420-8d70-524ebd563f34",
       "Name": "Responsible",
       "Code": "Responsible",
       "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
       "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+=======
+      "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
+      "NameGuid": "bb7ca198-0eb7-467f-833b-7db3a4e2d133",
+      "Name": "Code",
+      "Code": "Code",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+>>>>>>> 85ec81f (Create property Code)
       "PreviousPropertyGuid": "749bf7eb-a948-4e28-862b-efe28518a299"
     }
   ],

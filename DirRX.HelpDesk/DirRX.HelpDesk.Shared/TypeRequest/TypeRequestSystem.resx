@@ -61,7 +61,12 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
+<<<<<<< HEAD
   <data name="Property_Note" xml:space="preserve">
     <value>Примечание</value>
+=======
+  <data name="Property_Code" xml:space="preserve">
+    <value>Код</value>
+>>>>>>> 85ec81f (Create property Code)
   </data>
 </root>
