@@ -35,6 +35,10 @@
   "ExplorerTreeOrder": [
     {
       "ItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
+   },
+    {
+      "ItemId": "8cd17d9c-e706-4af2-83e6-27ca6eed34ea",
+      "PreviousItemId": "777801d5-52c2-4f93-8d21-6bdfd81dd813"
     },
     {
       "ItemId": "4b259e30-70e2-4824-859a-ee67a42a30b8",
