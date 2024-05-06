@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -61,12 +61,10 @@
   <data name="Property_Name" xml:space="preserve">
     <value>Name</value>
   </data>
-<<<<<<< HEAD
   <data name="Property_Note" xml:space="preserve">
     <value>Примечание</value>
-=======
+  </data>
   <data name="Property_Code" xml:space="preserve">
     <value>Код</value>
->>>>>>> 85ec81f (Create property Code)
   </data>
 </root>
