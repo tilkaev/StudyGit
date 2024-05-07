@@ -64,7 +64,7 @@
       "Name": "Responsible",
       "Code": "Responsible",
       "EntityGuid": "b7905516-2be5-4931-961c-cb38d5677565",
-      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+      "ListDataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder"
     },
     {
       "$type": "Sungero.Metadata.IntegerPropertyMetadata, Sungero.Metadata",
